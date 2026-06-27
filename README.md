@@ -225,9 +225,9 @@ To become a highly skilled **Senior Full Stack .NET Developer** specializing in 
 
 # Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 💻 GitHub: https://github.com/your-username
-* 🌐 Portfolio: https://your-portfolio.com
+* 📧 Email: nasir24k@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/nasir24k/
+* 💻 GitHub: https://github.com/NASIR24K/NASIR24K/
+* 🌐 Portfolio: https://nasir24k.github.io/nasir/
 
  Thank you for visiting my GitHub profile! Feel free to explore my repositories, contribute, or connect with me.
