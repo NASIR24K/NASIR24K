@@ -6,7 +6,6 @@ I am a passionate **Software Engineer** from **Bangladesh** with over **2.5 year
 
 Currently, I work at **Panjaree Publications Ltd.**, where I design, develop, maintain, and optimize business-critical ERP modules using **C#, ASP.NET Web Forms, ASP.NET Core Web API, SQL Server, ADO.NET, Crystal Reports, JavaScript, jQuery, AJAX, and Bootstrap**.
 
-
 ##  About Me
 
 * Assistant Programmer Officer at **Panjaree Publications Ltd.**
@@ -16,7 +15,7 @@ Currently, I work at **Panjaree Publications Ltd.**, where I design, develop, ma
 *  Continuously improving my skills through real-world projects and self-learning
 
 
-# 💻 Technical Skills
+#  Technical Skills
 
 ### Programming Languages
 
